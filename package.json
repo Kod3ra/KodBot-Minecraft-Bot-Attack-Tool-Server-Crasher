@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "commander": "^12.1.0",
+    "http-proxy-agent": "^7.0.2",
+    "mineflayer": "^4.20.1",
+    "proxy-agent": "^6.4.0",
+    "socks-proxy-agent": "^8.0.4"
+  }
+}
