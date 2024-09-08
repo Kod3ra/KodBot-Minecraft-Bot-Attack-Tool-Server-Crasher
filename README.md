@@ -50,8 +50,5 @@ cd KodBot-Minecraft-Bot-Attack-Tool-Server-Crasher
 python kodbot.py
 ```
 
-```
-
-```
 ### Contributing
 Contributions are welcome! Please fork this repository and submit a pull request.
