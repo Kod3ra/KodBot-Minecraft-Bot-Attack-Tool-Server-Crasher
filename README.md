@@ -28,24 +28,24 @@ First, ensure you have Python installed. You can install the required Python mod
 ```bash
 pip install tkinter subprocess
 ```
-JavaScript Modules
+### JavaScript Modules
 Ensure you have Node.js installed. You can install the required JavaScript modules using npm:
 
 ```
 npm install mineflayer commander child_process
 ```
 
-Usage
+### Usage
 To use KodBot, follow these steps:
 
-Clone the repository:
+### Clone the repository:
 ```
 git clone https://github.com/yourusername/KodBot-Minecraft-Bot-Attack-Tool-Server-Crasher.git
 cd KodBot-Minecraft-Bot-Attack-Tool-Server-Crasher
 ```
 
 
-Run the Python script:
+### Run the Python script:
 ```
 python kodbot.py
 ```
@@ -53,5 +53,5 @@ python kodbot.py
 ```
 
 ```
-Contributing
+### Contributing
 Contributions are welcome! Please fork this repository and submit a pull request.
