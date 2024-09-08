@@ -10,7 +10,6 @@ Test your server with bot attacks, or attack Minecraft servers. **For educationa
   - JavaScript Modules
 - Usage
 - Contributing
-- License
 
 ## Introduction
 KodBot is a tool designed to test the robustness of Minecraft servers by simulating bot attacks. This tool is intended for educational purposes only and should not be used for malicious activities.
@@ -35,7 +34,7 @@ Ensure you have Node.js installed. You can install the required JavaScript modul
 npm install mineflayer commander child_process
 ```
 
-### Usage
+## Usage
 To use KodBot, follow these steps:
 
 ### Clone the repository:
@@ -50,5 +49,5 @@ cd KodBot-Minecraft-Bot-Attack-Tool-Server-Crasher
 python kodbot.py
 ```
 
-### Contributing
+## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request.
